@@ -1,0 +1,118 @@
+
+.MainBox{
+    display: flex;
+}
+.input_boxes{
+    background-color: rgb(186, 197, 197);
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-left: 2%;
+    height: 400px;
+}
+
+.input_boxes > span {
+    font-size: 16px;
+    color: rgb(4, 16, 51);
+    font-weight: 600;
+}
+
+.input-text {
+    margin-top: 15px;
+    width: 80%;
+    padding: 5px 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    outline: none;
+    border: 1px solid lightcyan;
+    font-size: 16px;
+    color: rgb(4, 16, 51);
+}
+
+.inputdepart{
+    float: left;
+    margin-left: 7%;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    outline: none;
+    border: 1px solid lightcyan;
+    color: rgb(4, 16, 51);
+}
+.inputcheckbox{
+    vertical-align: middle;
+}
+.mypic{
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    outline: none;
+    border: 1px solid lightcyan;
+    color: rgb(4, 16, 51);
+    font-weight: 500;
+}
+
+.SaveData{
+    color: rgb(214, 220, 236);
+    background-color: rgb(4, 16, 51);
+    font-weight: 600;
+    font-size: 18px;
+    padding: 8px 16px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button_box{
+    margin-left: 2%;
+    margin-top: 40px;
+}
+
+.button_box > button {
+    margin-right: 10px;
+    padding: 8px 12px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+}
+.next {
+
+    background-color: lightsteelblue;
+    color: rgb(4, 16, 51);
+    font-weight: 600;
+
+}
+.prev {
+    
+    background-color: lightsteelblue;
+    color: rgb(4, 16, 51);
+    font-weight: 600;
+
+}
+
+.asc {
+    
+    background-color: lightsteelblue;
+    color: rgb(4, 16, 51);
+    font-weight: 600;
+
+}
+
+.desc {
+    
+    background-color: lightsteelblue;
+    color: rgb(4, 16, 51);
+    font-weight: 600;
+
+}
