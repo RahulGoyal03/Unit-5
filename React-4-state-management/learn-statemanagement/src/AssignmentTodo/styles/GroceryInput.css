@@ -1,0 +1,19 @@
+.input-box{
+    margin-top: 50px;
+}
+.input {
+    padding: 10px 5px;
+    width: 20%;
+    border-radius: 10px 0;
+    outline: green;
+    font-size: 16px;
+}
+.save {
+    background-color: green;
+    margin-left: 10px;
+    padding: 9px 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 500;
+    vertical-align: top;
+}

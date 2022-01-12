@@ -1,0 +1,26 @@
+.ListItems{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+    background-color: #E0F2F1;
+    color: green;
+    margin-top: 20px;
+    padding:10px 20px;
+    font-size: 20px;
+    text-transform: capitalize;
+    border-radius: 10px;
+    font-weight: 500;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5), -0.2em 0 .2em rgba(0, 0, 0, 0.5);
+
+}
+
+.purchased{
+    background-color: red;
+    color: #fff;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 6px;
+    cursor: pointer;
+}
