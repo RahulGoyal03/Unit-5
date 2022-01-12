@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "title": "learn react",
+      "status": false,
+      "id": 15
+    },
+    {
+      "title": "learn mern",
+      "status": false,
+      "id": 16
+    },
+    {
+      "title": "learn next",
+      "status": false,
+      "id": 17
+    },
+    {
+      "title": "learn html",
+      "status": false,
+      "id": 18
+    },
+    {
+      "title": "learn react23",
+      "status": false,
+      "id": 19
+    },
+    {
+      "title": "React is Here",
+      "status": false,
+      "id": 23
+    },
+    {
+      "title": "hi",
+      "status": false,
+      "id": 24
+    }
+  ]
+}
