@@ -1,0 +1,33 @@
+.todobox{
+    background-color: cyan;
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.item{
+    background-color: darkblue;
+    color: #fff;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 20px;
+}
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+.div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div > button {
+    margin-left: 40px;
+}
+.delete{
+    background-color: crimson;
+    color: #fff;
+}

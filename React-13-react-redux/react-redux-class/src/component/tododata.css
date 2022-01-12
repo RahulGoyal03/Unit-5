@@ -1,0 +1,11 @@
+.Item_box{
+    display: flex;
+    background-color: darkcyan;
+    color: black;
+    font-weight: 600;
+    width: 30%;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 20px;
+    align-items: center;
+}

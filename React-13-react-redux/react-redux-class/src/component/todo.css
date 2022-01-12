@@ -1,0 +1,22 @@
+.main_box{
+    background-color: rgb(148, 148, 241);
+    width: 40%;
+    margin: auto;
+    text-align: center;    
+    padding: 10px;
+
+}
+.main_box > input {
+    width: 70%;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+ button {
+    padding: 5px;
+    font-size: 18px;
+    border: none;
+    background-color: rgb(32, 38, 49);
+    color: #fff;
+    border-radius: 10px;
+}
