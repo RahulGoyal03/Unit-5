@@ -1,0 +1,53 @@
+.main_box{
+    background-color: rgb(128, 128, 233);
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.box {
+    background-color: rgb(35, 228, 235);
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.box button:nth-child(1){
+    background-color: darkblue;
+    color: #fff;
+    padding: 5px 13px;
+    margin-right: 8px;
+    border-radius: 5px;
+}
+.box button:nth-child(2){
+    background-color: rgb(252, 65, 65);
+    color: #fff;
+    padding: 5px 13px;
+    margin-right: 8px;
+    border-radius: 5px;
+}
+.input {
+    width: 70%;
+    padding:7px 5px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    border-bottom: 1px solid lightgray;
+}
+
+.add {
+    background-color: rgb(45, 45, 247);
+    color: #fff;
+    padding: 7px 13px;
+    margin-right: 8px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
